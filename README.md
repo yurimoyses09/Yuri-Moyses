@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuri Moyses</h1>
 <h3 align="center">A developer focused on .NET</h3>
 
-- 🌱 I’m currently learning **.NET platforms, aws certificates, SQL SERVER, PAAS**
+- 🌱 I’m currently learning **.NET platforms, AWS Certificates, SQL SERVER, PAAS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yurimoyses09](https://github.com/yurimoyses09)
 
